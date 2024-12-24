@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "The Rise of JavaScript Frameworks",
+    "author": {
+      "name": "John Doe",
+      "profile_picture": "https://i.ibb.co/bKFpsGQ/pexels-stefanstefancik-91227.jpg"
+    },
+    "image": "https://i.ibb.co/TvxSnmJ/thought-catalog-505eect-W54k-unsplash.jpg",
+    "content": "JavaScript frameworks like React and Vue have revolutionized web development...",
+    "hashtags": ["#JavaScript", "#WebDevelopment"],
+    "reading_time":9
+  },
+  {
+    "id": 2,
+    "title": "Understanding the Basics of UI/UX Design",
+    "author": {
+      "name": "Jane Smith",
+      "profile_picture": "https://i.ibb.co/T86KwYj/pexels-joaojesusdesign-1080213.jpg"
+    },
+    "image": "https://i.ibb.co/GRPyDtr/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+    "content": "Creating user-friendly interfaces requires a deep understanding of user behavior...",
+    "hashtags": ["#UIUX", "#DesignInspiration"],
+    "reading_time":4
+  },
+  {
+    "id": 3,
+    "title": "Mastering Full-Stack Development",
+    "author": {
+      "name": "Alice Johnson",
+      "profile_picture": "https://i.ibb.co/DMRVxH2/pexels-rb-audiovisual-1819483.jpg"
+    },
+    "image": "https://i.ibb.co/VwGgDKX/luca-bravo-9l-326-FISzk-unsplash.jpg",
+    "content": "A full-stack developer is skilled in both frontend and backend technologies...",
+    "hashtags": ["#FullStack", "#CodingLife"],
+    "reading_time":5
+  },
+  {
+    "id": 4,
+    "title": "How to Build Responsive Websites",
+    "author": {
+      "name": "Bob Brown",
+      "profile_picture": "https://i.ibb.co/Xxmnk4Y/pexels-thiago-s-fotografias-1918246.jpg"
+    },
+    "image": "https://i.ibb.co/vcRXfqc/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
+    "content": "Responsive design ensures that your website looks great on all devices...",
+    "hashtags": ["#ResponsiveDesign", "#FrontendDevelopment"],
+    "reading_time":10
+  }
+]
+
+
+
+
